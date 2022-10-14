@@ -1,8 +1,8 @@
 
 <h2> Hello, i'm Renan Rosa! 🦝 </h2>
 
-[![Linkedin: Renan Rosa](https://img.shields.io/badge/-Renan%20Rosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/renan-mathias-gomes-da-rosa/)](www.linkedin.com/in/renan-mathias-gomes-da-rosa/)
-[![GitHub rgrosa](https://img.shields.io/github/followers/rgrosa?label=follow&style=social)](https://github.com/minnmi)
+[![Linkedin: Renan Rosa](https://img.shields.io/badge/-Renan%20Rosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-mathias-gomes-da-rosa/)](https://www.linkedin.com/in/renan-mathias-gomes-da-rosa/)
+[![GitHub rgrosa](https://img.shields.io/github/followers/rgrosa?label=follow&style=social)](https://github.com/rgrosa)
 
 **📫 You can reach me at:**</br>
 [renanmathias99@gmail.com](mailto:renanmathias99@gmail.com)
