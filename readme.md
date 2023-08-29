@@ -7,15 +7,6 @@
 **📫 You can reach me at:**</br>
 [renanmathias99@gmail.com](mailto:renanmathias99@gmail.com)
 
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rgrosa&count_private=true&show_icons=true&theme=dark">
-    </td>
-  </tr>
-</table>
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
